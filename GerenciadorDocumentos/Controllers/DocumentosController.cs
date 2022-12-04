@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using GerenciarDocumentos.Models;
-using GerenciarDocumentos.Models.Entities;
+using GerenciadorDocumentos.Models.Entities;
 
 namespace GerenciadorDocumentos.Controllers
 {

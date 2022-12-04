@@ -1,11 +1,11 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
 
-namespace GerenciarDocumentos.Models.Entities
+namespace GerenciadorDocumentos.Models.Entities
 {
     public class Documento
     {
+        [Key]
         public int Id { get; set; }
 
         [Display(Name = "Código")]

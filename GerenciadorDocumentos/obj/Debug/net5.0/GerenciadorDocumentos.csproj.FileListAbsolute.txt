@@ -183,13 +183,6 @@ D:\apps\C#\FernandoNoleto\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\
 D:\apps\C#\FernandoNoleto\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.genruntimeconfig.cache
 D:\apps\C#\FernandoNoleto\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.csprojAssemblyReference.cache
 D:\apps\C#\FernandoNoleto\GerenciadorDocumentos\GerenciadorDocumentos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
-D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.GeneratedMSBuildEditorConfig.editorconfig
-D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.AssemblyInfoInputs.cache
-D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.AssemblyInfo.cs
-D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.csproj.CoreCompileInputs.cache
-D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.MvcApplicationPartsAssemblyInfo.cache
-D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.RazorAssemblyInfo.cache
-D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.RazorAssemblyInfo.cs
 D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\bin\Debug\net5.0\appsettings.Development.json
 D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\bin\Debug\net5.0\appsettings.json
 D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\bin\Debug\net5.0\GerenciadorDocumentos.exe
@@ -341,6 +334,14 @@ D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\bin\Debug\net5.0\runtimes
 D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
 D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.csprojAssemblyReference.cache
+D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.AssemblyInfoInputs.cache
+D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.AssemblyInfo.cs
+D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.csproj.CoreCompileInputs.cache
+D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.MvcApplicationPartsAssemblyInfo.cache
+D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.RazorAssemblyInfo.cache
+D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.RazorAssemblyInfo.cs
 D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\staticwebassets\GerenciadorDocumentos.StaticWebAssets.Manifest.cache
 D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\staticwebassets\GerenciadorDocumentos.StaticWebAssets.xml
 D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\scopedcss\bundle\GerenciadorDocumentos.styles.css
@@ -367,4 +368,3 @@ D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\Gerencia
 D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\ref\GerenciadorDocumentos.dll
 D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.pdb
 D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.genruntimeconfig.cache
-D:\apps\C#\GerenciadorDocumentos\GerenciadorDocumentos\obj\Debug\net5.0\GerenciadorDocumentos.csprojAssemblyReference.cache
